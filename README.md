@@ -1,4 +1,4 @@
-# Serial-Generator
+# Serial Generator
 Serial Generator is a Windows console application designed to generate and validate serial keys.
 
 ## How To Use
